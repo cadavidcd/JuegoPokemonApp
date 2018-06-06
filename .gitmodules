@@ -1,0 +1,3 @@
+[submodule "Componente_DIR"]
+	path = Componente_DIR
+	url = https://github.com/cadavidcd/JuegoPokemonApp
